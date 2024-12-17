@@ -547,7 +547,7 @@
         "feared": 0
       },
       "strength": "Incapable",
-      "appears": "Week 1 and onwards",
+      "appears": "Week 1",
       "voice": "Kendra Braun",
       "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/d/d4/KuuNewPortrait.png/revision/latest/scale-to-width-down/350?cb=20230401194559"
     },
@@ -803,7 +803,7 @@
       "gender": "Female",
       "url": "https://yandere-simulator.fandom.com/wiki/Raibaru_Fumetsu",
       "class": "2-1",
-      "club": "No Club Martial Arts",
+      "club": "No Club",
       "persona": "Protective",
       "crush": "None",
       "reputation": {
@@ -1658,7 +1658,7 @@
       "gender": "Male",
       "url": "https://yandere-simulator.fandom.com/wiki/Taro_Yamada",
       "class": "3-2",
-      "club": "None Gardening Club",
+      "club": "None",
       "persona": "Loner",
       "crush": "None",
       "reputation": {
@@ -1687,7 +1687,7 @@
         "feared": 0
       },
       "strength": "Very Weak",
-      "appears": "Week 1 and onwards",
+      "appears": "Week 1",
       "voice": "",
       "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/0/05/TogaNewPortrait.png/revision/latest/scale-to-width-down/350?cb=20230401231347"
     },
