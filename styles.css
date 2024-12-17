@@ -1,0 +1,159 @@
+:root {
+    --primary: #ff1493;
+    --primary-dark: #cc1177;
+    --bg-dark: #1a1a1a;
+    --bg-darker: #000000;
+    --text: #ffffff;
+    --success: #00ff9d;
+    --warning: #ffb700;
+    --error: #ff4444;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: var(--bg-dark);
+    color: var(--text);
+    line-height: 1.6;
+}
+
+nav {
+    background: var(--bg-darker);
+    padding: 1rem;
+    box-shadow: 0 2px 10px rgba(255, 20, 147, 0.2);
+}
+
+nav a {
+    color: var(--text);
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    margin: 0 0.5rem;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+nav a:hover {
+    background: var(--primary);
+    color: var(--bg-darker);
+}
+
+.container {
+    max-width: 1000px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+h1 {
+    font-size: 4rem;
+    background: linear-gradient(45deg, var(--primary), #ff69b4);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.instructions {
+    background: rgba(255, 20, 147, 0.1);
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin: 2rem 0;
+    border: 1px solid var(--primary);
+}
+
+.input-wrapper {
+    position: relative;
+    margin: 2rem 0;
+}
+
+#guessInput {
+    width: 100%;
+    padding: 1rem;
+    border: 2px solid var(--primary);
+    border-radius: 8px;
+    background: var(--bg-darker);
+    color: var(--text);
+    font-size: 1rem;
+}
+
+#guessInput:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(255, 20, 147, 0.3);
+}
+
+button {
+    background: var(--primary);
+    color: var(--text);
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+button:hover {
+    background: var(--primary-dark);
+    transform: translateY(-2px);
+}
+
+.guess {
+    background: rgba(255, 20, 147, 0.1);
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin: 1rem 0;
+    border: 1px solid var(--primary);
+    transition: all 0.3s ease;
+}
+
+.guess:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(255, 20, 147, 0.2);
+}
+
+.character-image {
+    width: 120px;
+    height: 120px;
+    border-radius: 8px;
+    object-fit: cover;
+    border: 2px solid var(--primary);
+}
+
+.match { color: var(--success) !important; }
+.close { color: var(--warning) !important; }
+.no-match { color: var(--error) !important; }
+
+#characterList {
+    background: var(--bg-darker);
+    border-radius: 0 0 8px 8px;
+    border: 2px solid var(--primary);
+    border-top: none;
+}
+
+.character-option {
+    padding: 1rem;
+    transition: all 0.3s ease;
+}
+
+.character-option:hover {
+    background: rgba(255, 20, 147, 0.2);
+}
+
+.attribute {
+    background: rgba(255, 20, 147, 0.1);
+    border-radius: 4px;
+    padding: 0.5rem 1rem;
+    margin: 0.25rem;
+    display: inline-block;
+}
+
+footer {
+    text-align: center;
+    padding: 2rem;
+    color: rgba(255, 255, 255, 0.6);
+    margin-top: 3rem;
+}

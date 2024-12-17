@@ -1,0 +1,1779 @@
+{
+  "characters": [
+    {
+      "name": "Ajia Ashitomi",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Ajia_Ashitomi",
+      "class": "1-2",
+      "club": "Cooking",
+      "persona": "Social Butterfly",
+      "crush": "None",
+      "reputation": {
+        "overall": 30,
+        "liked": 30,
+        "respected": 50,
+        "feared": 10
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/0/00/AjiaAugust1st.png/revision/latest/scale-to-width-down/350?cb=20240801102206"
+    },
+    {
+      "name": "Akane Toriyasu",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Akane_Toriyasu",
+      "class": "3-1",
+      "club": "Student Council",
+      "persona": "Dangerous Social Butterfly",
+      "crush": "None",
+      "reputation": {
+        "overall": 60,
+        "liked": 100,
+        "respected": 30,
+        "feared": 50
+      },
+      "strength": "Carries Pepper Spray",
+      "appears": "Week 1",
+      "voice": "Kira Buckland",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/0/05/AkaneApril1st.png/revision/latest/scale-to-width-down/350?cb=20230404042258"
+    },
+    {
+      "name": "Amai Odayaka",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Amai_Odayaka",
+      "class": "2-2",
+      "club": "Cooking",
+      "persona": "Lovestruck Social Butterfly",
+      "crush": "Taro Yamada Shoku Tsuburaya",
+      "reputation": {
+        "overall": 63,
+        "liked": 100,
+        "respected": 100,
+        "feared": -10
+      },
+      "strength": "Very Weak",
+      "appears": "Week 2",
+      "voice": "Kimberly Anne Campbell",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/e/ec/AmaiDec16th.png/revision/latest/scale-to-width-down/350?cb=20241216080157"
+    },
+    {
+      "name": "Aoi Ryugoku",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Aoi_Ryugoku",
+      "class": "2-2",
+      "club": "Student Council",
+      "persona": "Dangerous",
+      "crush": "None",
+      "reputation": {
+        "overall": 40,
+        "liked": -10,
+        "respected": 30,
+        "feared": 100
+      },
+      "strength": "Carries Pepper Spray",
+      "appears": "Week 1",
+      "voice": "Dawn M. Bennett",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/9/92/AoiApril1st.png/revision/latest/scale-to-width-down/350?cb=20230404042310"
+    },
+    {
+      "name": "Asu Rito",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Asu_Rito",
+      "class": "2-2",
+      "club": "Sports",
+      "persona": "Lovestruck",
+      "crush": "Taro Yamada",
+      "reputation": {
+        "overall": 67,
+        "liked": 100,
+        "respected": 100,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 5",
+      "voice": "Dawn M. Bennett",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/3/35/AsuMay2nd.png/revision/latest/scale-to-width-down/350?cb=20240503001754"
+    },
+    {
+      "name": "Ayano Aishi",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Ayano_Aishi",
+      "class": "2-1",
+      "club": "No Club",
+      "persona": "Devoted",
+      "crush": "Taro Yamada / Taeko Yamada",
+      "reputation": {
+        "overall": 0,
+        "liked": 0,
+        "respected": 0,
+        "feared": 0
+      },
+      "strength": "Variable",
+      "appears": "",
+      "voice": "Michaela Laws",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/9/99/AyanoJuly6th.png/revision/latest/scale-to-width-down/350?cb=20230706165639"
+    },
+    {
+      "name": "Beruma Dinkuri",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Beruma_Dinkuri",
+      "class": "1-1",
+      "club": "Photography",
+      "persona": "Sleuth",
+      "crush": "None",
+      "reputation": {
+        "overall": -20,
+        "liked": -10,
+        "respected": -50,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/4/48/Berumanew.png/revision/latest/scale-to-width-down/350?cb=20240502003939"
+    },
+    {
+      "name": "Beshi Takamine",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Beshi_Takamine",
+      "class": "2-1",
+      "club": "Light Music",
+      "persona": "Social Butterfly",
+      "crush": "None",
+      "reputation": {
+        "overall": 20,
+        "liked": 50,
+        "respected": 10,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/0/07/BeshiAugust5th.png/revision/latest/scale-to-width-down/350?cb=20240806052612"
+    },
+    {
+      "name": "Dafuni Bureiku",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Dafuni_Bureiku",
+      "class": "1-2",
+      "club": "Photography",
+      "persona": "Sleuth",
+      "crush": "None",
+      "reputation": {
+        "overall": 13,
+        "liked": 50,
+        "respected": -10,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/5/59/DafuniNov15th.png/revision/latest/scale-to-width-down/350?cb=20241115164321"
+    },
+    {
+      "name": "Dora Tamamoto",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Dora_Tamamoto",
+      "class": "1-2",
+      "club": "Light Music",
+      "persona": "Social Butterfly",
+      "crush": "None",
+      "reputation": {
+        "overall": 30,
+        "liked": 50,
+        "respected": 50,
+        "feared": -10
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/4/47/DoraAugust5th.png/revision/latest/scale-to-width-down/350?cb=20240806052638"
+    },
+    {
+      "name": "Efude Nurimono",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Efude_Nurimono",
+      "class": "1-1",
+      "club": "Art",
+      "persona": "Social Butterfly",
+      "crush": "None",
+      "reputation": {
+        "overall": -3,
+        "liked": 0,
+        "respected": -10,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/4/46/Efudenew.png/revision/latest/scale-to-width-down/350?cb=20240411011854"
+    },
+    {
+      "name": "Gita Yamahato",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Gita_Yamahato",
+      "class": "3-1",
+      "club": "Light Music",
+      "persona": "Social Butterfly",
+      "crush": "None",
+      "reputation": {
+        "overall": 33,
+        "liked": 30,
+        "respected": 70,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "Lizzy Hofe",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/f/f6/GitaAugust5th.png/revision/latest/scale-to-width-down/350?cb=20240806052553"
+    },
+    {
+      "name": "Hana Daidaiyama",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Hana_Daidaiyama",
+      "class": "2-1",
+      "club": "No Club",
+      "persona": "Phone Addict",
+      "crush": "None",
+      "reputation": {
+        "overall": 30,
+        "liked": 50,
+        "respected": -10,
+        "feared": 50
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "Hayden Daviau",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/b/be/Hananew.png/revision/latest/scale-to-width-down/350?cb=20240502004139"
+    },
+    {
+      "name": "Hanako Yamada",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Hanako_Yamada",
+      "class": "1-2",
+      "club": "No Club",
+      "persona": "Lovestruck",
+      "crush": "None",
+      "reputation": {
+        "overall": 3,
+        "liked": 10,
+        "respected": 0,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 9",
+      "voice": "Dawn M. Bennett",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/8/8e/HanakoMay2nd.png/revision/latest/scale-to-width-down/350?cb=20240503001838"
+    },
+    {
+      "name": "Himari Fujita",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Himari_Fujita",
+      "class": "3-1",
+      "club": "Gardening",
+      "persona": "Heroic",
+      "crush": "None",
+      "reputation": {
+        "overall": 27,
+        "liked": 50,
+        "respected": 30,
+        "feared": 0
+      },
+      "strength": "Very Weak",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/d/d8/Himarinew.png/revision/latest/scale-to-width-down/350?cb=20240502004041"
+    },
+    {
+      "name": "Homu Kurusu",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Homu_Kurusu",
+      "class": "1-1",
+      "club": "Science",
+      "persona": "Teacher's Pet",
+      "crush": "None",
+      "reputation": {
+        "overall": 23,
+        "liked": -10,
+        "respected": 30,
+        "feared": 50
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/2/29/Homunew.png/revision/latest/scale-to-width-down/350?cb=20240502004004"
+    },
+    {
+      "name": "Horuda Puresu",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Horuda_Puresu",
+      "class": "1-2",
+      "club": "No Club",
+      "persona": "Fragile",
+      "crush": "None",
+      "reputation": {
+        "overall": -23,
+        "liked": -50,
+        "respected": -30,
+        "feared": 10
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "Lizzy Hofe",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/7/76/HorudaJune1st2023.png/revision/latest/scale-to-width-down/350?cb=20230615081644"
+    },
+    {
+      "name": "Hoshiko Mizudori",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Hoshiko_Mizudori",
+      "class": "1-1",
+      "club": "No Club",
+      "persona": "Phone Addict",
+      "crush": "None",
+      "reputation": {
+        "overall": 30,
+        "liked": 50,
+        "respected": -10,
+        "feared": 50
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "Hayden Daviau",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/e/e8/Hoshikonew.png/revision/latest/scale-to-width-down/350?cb=20240502004157"
+    },
+    {
+      "name": "Info-chan",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Info-chan",
+      "class": "",
+      "club": "?????",
+      "persona": "?????",
+      "crush": "None",
+      "reputation": {
+        "overall": 0,
+        "liked": 0,
+        "respected": 0,
+        "feared": 0
+      },
+      "strength": "?????",
+      "appears": "",
+      "voice": "Amberleigh Elderweb",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/4/42/InfoChanApril3rd.png/revision/latest/scale-to-width-down/350?cb=20230403135417"
+    },
+    {
+      "name": "Inkyu Basu",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Inkyu_Basu",
+      "class": "2-2",
+      "club": "No Club",
+      "persona": "Social Butterfly",
+      "crush": "None",
+      "reputation": {
+        "overall": 23,
+        "liked": 50,
+        "respected": -10,
+        "feared": 30
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "Kira Buckland",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/0/00/InkyuDec1st.png/revision/latest/scale-to-width-down/350?cb=20241201084843"
+    },
+    {
+      "name": "Kashiko Murasaki",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Kashiko_Murasaki",
+      "class": "3-1",
+      "club": "No Club",
+      "persona": "Phone Addict",
+      "crush": "None",
+      "reputation": {
+        "overall": 30,
+        "liked": 50,
+        "respected": -10,
+        "feared": 50
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "Hayden Daviau",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/2/22/Kashikonew.png/revision/latest/scale-to-width-down/350?cb=20240502004131"
+    },
+    {
+      "name": "Kiba Kawaito",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Kiba_Kawaito",
+      "class": "1-1",
+      "club": "Light Music",
+      "persona": "Social Butterfly",
+      "crush": "None",
+      "reputation": {
+        "overall": 20,
+        "liked": 30,
+        "respected": 30,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/3/3d/KibaAugust5th.png/revision/latest/scale-to-width-down/350?cb=20240806052700"
+    },
+    {
+      "name": "Kiyoko Tatsuhara",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Kiyoko_Tatsuhara",
+      "class": "",
+      "club": "Student Council",
+      "persona": "Dangerous",
+      "crush": "None",
+      "reputation": {
+        "overall": 0,
+        "liked": 0,
+        "respected": 0,
+        "feared": 0
+      },
+      "strength": "Carries Pepper Spray",
+      "appears": "Week 10",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/8/83/Kiyoko_illustration.png/revision/latest/scale-to-width-down/210?cb=20211123035026"
+    },
+    {
+      "name": "Kizana Sunobu",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Kizana_Sunobu",
+      "class": "2-2",
+      "club": "Drama",
+      "persona": "Lovestruck",
+      "crush": "Taro Yamada",
+      "reputation": {
+        "overall": 63,
+        "liked": -10,
+        "respected": 100,
+        "feared": 100
+      },
+      "strength": "Incapable",
+      "appears": "Week 3",
+      "voice": "Katelyn Barr",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/a/a4/KizanaMay2nd.png/revision/latest/scale-to-width-down/350?cb=20240503001729"
+    },
+    {
+      "name": "Kokona Haruka",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Kokona_Haruka",
+      "class": "1-1",
+      "club": "Drama",
+      "persona": "Social Butterfly",
+      "crush": "None",
+      "reputation": {
+        "overall": 27,
+        "liked": 30,
+        "respected": 50,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "Cait Myers/Mom0ki",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/6/68/Kokonanew.png/revision/latest/scale-to-width-down/350?cb=20240411011215"
+    },
+    {
+      "name": "Kokoro Momoiro",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Kokoro_Momoiro",
+      "class": "1-2",
+      "club": "No Club",
+      "persona": "Phone Addict",
+      "crush": "None",
+      "reputation": {
+        "overall": 30,
+        "liked": 50,
+        "respected": -10,
+        "feared": 50
+      },
+      "strength": "Incapable",
+      "appears": "Week 0",
+      "voice": "Hayden Daviau",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/9/91/Kokoronew.png/revision/latest/scale-to-width-down/350?cb=20240502004147"
+    },
+    {
+      "name": "Kokuma Jutsu",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Kokuma_Jutsu",
+      "class": "1-1",
+      "club": "Occult",
+      "persona": "Coward",
+      "crush": "None",
+      "reputation": {
+        "overall": -23,
+        "liked": -70,
+        "respected": -10,
+        "feared": 10
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/f/f7/Kokumanew.png/revision/latest/scale-to-width-down/350?cb=20240411011600"
+    },
+    {
+      "name": "Kuroko Kamenaga",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Kuroko_Kamenaga",
+      "class": "3-2",
+      "club": "Student Council",
+      "persona": "Dangerous Teacher's Pet",
+      "crush": "None",
+      "reputation": {
+        "overall": 67,
+        "liked": 30,
+        "respected": 100,
+        "feared": 70
+      },
+      "strength": "Carries Pepper Spray",
+      "appears": "Week 1",
+      "voice": "Kayli Mills",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/4/48/KurokoOct9th.png/revision/latest/scale-to-width-down/350?cb=20241119022653"
+    },
+    {
+      "name": "Kuu Dere",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Kuu_Dere",
+      "class": "1-1",
+      "club": "No Club",
+      "persona": "Loner",
+      "crush": "None",
+      "reputation": {
+        "overall": 3,
+        "liked": 0,
+        "respected": 10,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 1 and onwards",
+      "voice": "Kendra Braun",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/d/d4/KuuNewPortrait.png/revision/latest/scale-to-width-down/350?cb=20230401194559"
+    },
+    {
+      "name": "Mai Waifu",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Mai_Waifu",
+      "class": "1-1",
+      "club": "Gaming",
+      "persona": "Phone Addict",
+      "crush": "None",
+      "reputation": {
+        "overall": 17,
+        "liked": 70,
+        "respected": -30,
+        "feared": 10
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/4/42/Mainew.png/revision/latest/scale-to-width-down/350?cb=20240411011819"
+    },
+    {
+      "name": "Maka Tansei",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Maka_Tansei",
+      "class": "1-2",
+      "club": "Art",
+      "persona": "Social Butterfly",
+      "crush": "None",
+      "reputation": {
+        "overall": -3,
+        "liked": -10,
+        "respected": 0,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/d/d0/Makanew.png/revision/latest/scale-to-width-down/350?cb=20240411011843"
+    },
+    {
+      "name": "Megami Saikou",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Megami_Saikou",
+      "class": "2-2",
+      "club": "Student Council",
+      "persona": "Lovestruck",
+      "crush": "None Kaga Kusha",
+      "reputation": {
+        "overall": 100,
+        "liked": 100,
+        "respected": 100,
+        "feared": 100
+      },
+      "strength": "Invincible",
+      "appears": "Week 10",
+      "voice": "Amanda Lee",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/6/6c/MegamiMay2nd.png/revision/latest/scale-to-width-down/350?cb=20240503001849"
+    },
+    {
+      "name": "Meka Nikaru",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Meka_Nikaru",
+      "class": "1-2",
+      "club": "Science",
+      "persona": "Teacher's Pet",
+      "crush": "None",
+      "reputation": {
+        "overall": 23,
+        "liked": -10,
+        "respected": 30,
+        "feared": 50
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/6/6c/Mekanew.png/revision/latest/scale-to-width-down/350?cb=20240502003954"
+    },
+    {
+      "name": "Midori Gurin",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Midori_Gurin",
+      "class": "1-2",
+      "club": "Gaming",
+      "persona": "Phone Addict",
+      "crush": "None",
+      "reputation": {
+        "overall": -20,
+        "liked": -50,
+        "respected": -10,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "Cait Myers/Mom0ki",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/4/4c/Midorinew.png/revision/latest/scale-to-width-down/350?cb=20240411011809"
+    },
+    {
+      "name": "Mina Rai",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Mina_Rai",
+      "class": "1-2",
+      "club": "Martial Arts Light Music",
+      "persona": "Heroic",
+      "crush": "None",
+      "reputation": {
+        "overall": 23,
+        "liked": 30,
+        "respected": 30,
+        "feared": 10
+      },
+      "strength": "Very Strong",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/e/e5/MinaSept15th.png/revision/latest/scale-to-width-down/350?cb=20240915082156"
+    },
+    {
+      "name": "Miyuji Shan",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Miyuji_Shan",
+      "class": "3-2",
+      "club": "Light Music",
+      "persona": "Social Butterfly",
+      "crush": "None",
+      "reputation": {
+        "overall": 37,
+        "liked": 10,
+        "respected": 100,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/7/70/MiyujiDec1st.png/revision/latest/scale-to-width-down/350?cb=20241201084952"
+    },
+    {
+      "name": "Musume Ronshaku",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Musume_Ronshaku",
+      "class": "3-2",
+      "club": "No Club",
+      "persona": "Phone Addict",
+      "crush": "None",
+      "reputation": {
+        "overall": 30,
+        "liked": 50,
+        "respected": -10,
+        "feared": 50
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "Hayden Daviau",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/0/0d/Musumenew.png/revision/latest/scale-to-width-down/350?cb=20240502004122"
+    },
+    {
+      "name": "Nemesis",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Nemesis",
+      "class": "1-2",
+      "club": "No Club",
+      "persona": "Unknown",
+      "crush": "None",
+      "reputation": {
+        "overall": 0,
+        "liked": 0,
+        "respected": 0,
+        "feared": 0
+      },
+      "strength": "Armed",
+      "appears": "Mission Mode",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/6/61/NemesisOct13th.png/revision/latest/scale-to-width-down/350?cb=20241013055755"
+    },
+    {
+      "name": "Oka Ruto",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Oka_Ruto",
+      "class": "2-2",
+      "club": "Occult",
+      "persona": "Lovestruck",
+      "crush": "Taro Yamada",
+      "reputation": {
+        "overall": 30,
+        "liked": 0,
+        "respected": 100,
+        "feared": -10
+      },
+      "strength": "Incapable",
+      "appears": "Week 4",
+      "voice": "Cait Myers/Mom0ki",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/9/99/OkaMay2nd.png/revision/latest/scale-to-width-down/350?cb=20240503001744"
+    },
+    {
+      "name": "Osana Najimi",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Osana_Najimi",
+      "class": "2-1",
+      "club": "No Club",
+      "persona": "Lovestruck Loner",
+      "crush": "Taro Yamada Kyuji Konagawa",
+      "reputation": {
+        "overall": 33,
+        "liked": 60,
+        "respected": 30,
+        "feared": 10
+      },
+      "strength": "Very Weak",
+      "appears": "Week 1",
+      "voice": "Brittany Lauda",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/4/41/OsanaNewPortrait.png/revision/latest/scale-to-width-down/350?cb=20230401231414"
+    },
+    {
+      "name": "Osoro Shidesu",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Osoro_Shidesu",
+      "class": "2-2",
+      "club": "Delinquent",
+      "persona": "Lovestruck",
+      "crush": "Taro Yamada",
+      "reputation": {
+        "overall": -33,
+        "liked": -100,
+        "respected": -100,
+        "feared": 100
+      },
+      "strength": "Invincible",
+      "appears": "Week 8",
+      "voice": "Alexis Silvera",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/d/d9/OsoroMay2nd.png/revision/latest/scale-to-width-down/350?cb=20240503001825"
+    },
+    {
+      "name": "Pippi Osu",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Pippi_Osu",
+      "class": "2-2",
+      "club": "Gaming",
+      "persona": "Phone Addict",
+      "crush": "Ryuto Ippongo",
+      "reputation": {
+        "overall": 17,
+        "liked": 50,
+        "respected": 0,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "Samantha Chan",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/3/3d/Pippinew.png/revision/latest/scale-to-width-down/350?cb=20240411011742"
+    },
+    {
+      "name": "Raibaru Fumetsu",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Raibaru_Fumetsu",
+      "class": "2-1",
+      "club": "No Club Martial Arts",
+      "persona": "Protective Heroic",
+      "crush": "None",
+      "reputation": {
+        "overall": 17,
+        "liked": 30,
+        "respected": 15,
+        "feared": 5
+      },
+      "strength": "Invincible",
+      "appears": "Week 1",
+      "voice": "Hayden Daviau-Hunt",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/6/65/RaibaruNewPortrait.png/revision/latest/scale-to-width-down/350?cb=20230401231400"
+    },
+    {
+      "name": "Saki Miyu",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Saki_Miyu",
+      "class": "1-1",
+      "club": "Cooking",
+      "persona": "Social Butterfly",
+      "crush": "None",
+      "reputation": {
+        "overall": 30,
+        "liked": 70,
+        "respected": 50,
+        "feared": -30
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "Cait Myers/Mom0ki",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/a/a5/SakiNov15th.png/revision/latest/scale-to-width-down/350?cb=20241115134213"
+    },
+    {
+      "name": "Sakura Hagiwara",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Sakura_Hagiwara",
+      "class": "2-1",
+      "club": "Gardening",
+      "persona": "Social Butterfly",
+      "crush": "None",
+      "reputation": {
+        "overall": 33,
+        "liked": 100,
+        "respected": 100,
+        "feared": -100
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/7/7d/SakuraSept15th.png/revision/latest/scale-to-width-down/350?cb=20240915082238"
+    },
+    {
+      "name": "Sakyu Basu",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Sakyu_Basu",
+      "class": "2-2",
+      "club": "No Club",
+      "persona": "Social Butterfly",
+      "crush": "None",
+      "reputation": {
+        "overall": 23,
+        "liked": 70,
+        "respected": -10,
+        "feared": 10
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "Kayli Mills",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/f/f4/SakyuDec1st.png/revision/latest/scale-to-width-down/350?cb=20241201084818"
+    },
+    {
+      "name": "Shima Shiya",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Shima_Shiya",
+      "class": "1-1",
+      "club": "Martial Arts Light Music",
+      "persona": "Heroic",
+      "crush": "None",
+      "reputation": {
+        "overall": 17,
+        "liked": 30,
+        "respected": 10,
+        "feared": 10
+      },
+      "strength": "Weak",
+      "appears": "Week 1",
+      "voice": "Phebe Fabacher",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/6/69/ShimaSept15th.png/revision/latest/scale-to-width-down/350?cb=20240915082210"
+    },
+    {
+      "name": "Shiromi Torayoshi",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Shiromi_Torayoshi",
+      "class": "1-1",
+      "club": "Student Council",
+      "persona": "Dangerous Loner",
+      "crush": "None",
+      "reputation": {
+        "overall": 40,
+        "liked": 30,
+        "respected": -10,
+        "feared": 100
+      },
+      "strength": "Carries Pepper Spray",
+      "appears": "Week 1",
+      "voice": "Anonymous",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/f/f6/ShiromiApril1st.png/revision/latest/scale-to-width-down/350?cb=20230404042247"
+    },
+    {
+      "name": "Sumire Suzuki",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Sumire_Suzuki",
+      "class": "1-2",
+      "club": "Gardening",
+      "persona": "Social Butterfly",
+      "crush": "None",
+      "reputation": {
+        "overall": 23,
+        "liked": 70,
+        "respected": 50,
+        "feared": -50
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/a/a7/SumireSumire.png/revision/latest/scale-to-width-down/350?cb=20241208043911"
+    },
+    {
+      "name": "Supana Churu",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Supana_Churu",
+      "class": "1-2",
+      "club": "Occult",
+      "persona": "Coward",
+      "crush": "None",
+      "reputation": {
+        "overall": -23,
+        "liked": -70,
+        "respected": -10,
+        "feared": 10
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/7/75/Supananew.png/revision/latest/scale-to-width-down/350?cb=20240411011547"
+    },
+    {
+      "name": "Taeko Yamada",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Taeko_Yamada",
+      "class": "3-2",
+      "club": "No Club",
+      "persona": "Loner",
+      "crush": "None",
+      "reputation": {
+        "overall": 0,
+        "liked": 0,
+        "respected": 0,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 0",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/f/f1/Senpai-chan.png/revision/latest/scale-to-width-down/174?cb=20211015041053"
+    },
+    {
+      "name": "Tokuko Kitagawa",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Tokuko_Kitagawa",
+      "class": "1-2",
+      "club": "Drama",
+      "persona": "Social Butterfly",
+      "crush": "None",
+      "reputation": {
+        "overall": 13,
+        "liked": -10,
+        "respected": 50,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/9/98/Tokukonew.png/revision/latest/scale-to-width-down/350?cb=20240411011202"
+    },
+    {
+      "name": "Tsubaki Uesugi",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Tsubaki_Uesugi",
+      "class": "1-1",
+      "club": "Gardening",
+      "persona": "Social Butterfly",
+      "crush": "None",
+      "reputation": {
+        "overall": 20,
+        "liked": 10,
+        "respected": 50,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/c/c5/Tsubakinew.png/revision/latest/scale-to-width-down/350?cb=20240502004112"
+    },
+    {
+      "name": "Uekiya Engeika",
+      "gender": "Female",
+      "url": "https://yandere-simulator.fandom.com/wiki/Uekiya_Engeika",
+      "class": "3-2",
+      "club": "Gardening",
+      "persona": "Social Butterfly",
+      "crush": "None",
+      "reputation": {
+        "overall": 33,
+        "liked": 100,
+        "respected": 100,
+        "feared": -100
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "Lizzy Hofe",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/5/5d/UekiyaAugust15th.png/revision/latest/scale-to-width-down/350?cb=20240815073948"
+    },
+    {
+      "name": "Ayato Aishi",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Ayato_Aishi",
+      "class": "2-1",
+      "club": "No Club",
+      "persona": "Devoted",
+      "crush": "Taro Yamada / Taeko Yamada",
+      "reputation": {
+        "overall": 0,
+        "liked": 0,
+        "respected": 0,
+        "feared": 0
+      },
+      "strength": "Variable",
+      "appears": "",
+      "voice": "Alejandro Saab",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/f/fa/Ayato_In_Game_Model.png/revision/latest/scale-to-width-down/316?cb=20241209133048"
+    },
+    {
+      "name": "Borupen Saishiki",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Borupen_Saishiki",
+      "class": "3-1",
+      "club": "Art",
+      "persona": "Spiteful",
+      "crush": "None",
+      "reputation": {
+        "overall": -17,
+        "liked": -50,
+        "respected": -30,
+        "feared": 30
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/c/c9/BoruApril1st.png/revision/latest/scale-to-width-down/350?cb=20230404001404"
+    },
+    {
+      "name": "Budo Masuta",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Budo_Masuta",
+      "class": "3-2",
+      "club": "Martial Arts",
+      "persona": "Heroic",
+      "crush": "None",
+      "reputation": {
+        "overall": 100,
+        "liked": 100,
+        "respected": 100,
+        "feared": 100
+      },
+      "strength": "Peak Physical Strength",
+      "appears": "Week 1",
+      "voice": "Patrick M. Seymour",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/b/bf/BudoOct31st.png/revision/latest/scale-to-width-down/350?cb=20241031080314"
+    },
+    {
+      "name": "Chojo Tekina",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Chojo_Tekina",
+      "class": "3-1",
+      "club": "Occult",
+      "persona": "Coward",
+      "crush": "None",
+      "reputation": {
+        "overall": -23,
+        "liked": -70,
+        "respected": -10,
+        "feared": 10
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/a/a1/ChojoOct31st.png/revision/latest/scale-to-width-down/350?cb=20241031080255"
+    },
+    {
+      "name": "Dairoku Surikizu",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Dairoku_Surikizu",
+      "class": "2-2",
+      "club": "Delinquent",
+      "persona": "Violent",
+      "crush": "None",
+      "reputation": {
+        "overall": -67,
+        "liked": -100,
+        "respected": -100,
+        "feared": 100
+      },
+      "strength": "Armed",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/b/b8/DairokuJan10th.png/revision/latest/scale-to-width-down/350?cb=20240110200559"
+    },
+    {
+      "name": "Daku Atsu",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Daku_Atsu",
+      "class": "2-1",
+      "club": "Occult",
+      "persona": "Coward",
+      "crush": "None",
+      "reputation": {
+        "overall": -23,
+        "liked": -70,
+        "respected": -10,
+        "feared": 10
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/e/ed/DakuPose.png/revision/latest/scale-to-width-down/350?cb=20230402012932"
+    },
+    {
+      "name": "Enpitsu Byoga",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Enpitsu_Byoga",
+      "class": "2-1",
+      "club": "Art",
+      "persona": "Social Butterfly",
+      "crush": "None",
+      "reputation": {
+        "overall": -7,
+        "liked": -10,
+        "respected": -10,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/3/38/EnjiApril1st.png/revision/latest/scale-to-width-down/350?cb=20230404001415"
+    },
+    {
+      "name": "Fureddo Jonzu",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Fureddo_Jonzu",
+      "class": "3-2",
+      "club": "Photography",
+      "persona": "Sleuth",
+      "crush": "None",
+      "reputation": {
+        "overall": 57,
+        "liked": 70,
+        "respected": 100,
+        "feared": 0
+      },
+      "strength": "Strong",
+      "appears": "Week 1",
+      "voice": "Alejandro Saab",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/7/72/FredApril1st.png/revision/latest/scale-to-width-down/350?cb=20230404031843"
+    },
+    {
+      "name": "Gaku Hikitsuri",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Gaku_Hikitsuri",
+      "class": "2-1",
+      "club": "Delinquent",
+      "persona": "Violent",
+      "crush": "None",
+      "reputation": {
+        "overall": -67,
+        "liked": -100,
+        "respected": -100,
+        "feared": 100
+      },
+      "strength": "Armed",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/a/ad/GakuJan10th.png/revision/latest/scale-to-width-down/350?cb=20240110200531"
+    },
+    {
+      "name": "Geiju Tsuka",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Geiju_Tsuka",
+      "class": "3-2",
+      "club": "Art",
+      "persona": "Loner",
+      "crush": "None",
+      "reputation": {
+        "overall": 33,
+        "liked": 0,
+        "respected": 100,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "Austin Hively",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/5/5e/GeijuApril1st.png/revision/latest/scale-to-width-down/350?cb=20230404001349"
+    },
+    {
+      "name": "Gema Taku",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Gema_Taku",
+      "class": "3-2",
+      "club": "Gaming",
+      "persona": "Loner",
+      "crush": "Musume Ronshaku",
+      "reputation": {
+        "overall": 10,
+        "liked": -70,
+        "respected": 100,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "Steve Warky Nunez",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/c/ce/GemaApril1st.png/revision/latest/scale-to-width-down/350?cb=20230403011948"
+    },
+    {
+      "name": "Hayanari Tsumeato",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Hayanari_Tsumeato",
+      "class": "2-2",
+      "club": "Delinquent",
+      "persona": "Violent",
+      "crush": "None",
+      "reputation": {
+        "overall": -67,
+        "liked": -100,
+        "respected": -100,
+        "feared": 100
+      },
+      "strength": "Armed",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/0/05/HayanariJan10th.png/revision/latest/scale-to-width-down/350?cb=20240110200545"
+    },
+    {
+      "name": "Hazu Kashibuchi",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Hazu_Kashibuchi",
+      "class": "1-2",
+      "club": "No Club",
+      "persona": "Coward",
+      "crush": "None",
+      "reputation": {
+        "overall": -7,
+        "liked": 0,
+        "respected": 10,
+        "feared": -30
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/3/39/HazuNewPortrait.png/revision/latest/scale-to-width-down/350?cb=20230401231333"
+    },
+    {
+      "name": "Hojiro Zameshiro",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Hojiro_Zameshiro",
+      "class": "3-1",
+      "club": "Sports",
+      "persona": "Heroic",
+      "crush": "None",
+      "reputation": {
+        "overall": 33,
+        "liked": 30,
+        "respected": 70,
+        "feared": 0
+      },
+      "strength": "Very Strong",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/6/6b/HojiroApril1st.png/revision/latest/scale-to-width-down/350?cb=20230404042020"
+    },
+    {
+      "name": "Hokuto Furukizu",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Hokuto_Furukizu",
+      "class": "2-2",
+      "club": "Delinquent",
+      "persona": "Violent",
+      "crush": "None",
+      "reputation": {
+        "overall": -67,
+        "liked": -100,
+        "respected": -100,
+        "feared": 100
+      },
+      "strength": "Armed",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/a/ae/HokutoJan10th.png/revision/latest/scale-to-width-down/350?cb=20240110200437"
+    },
+    {
+      "name": "Horo Guramu",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Horo_Guramu",
+      "class": "3-1",
+      "club": "Science",
+      "persona": "Teacher's Pet",
+      "crush": "None",
+      "reputation": {
+        "overall": 27,
+        "liked": 0,
+        "respected": 70,
+        "feared": 10
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "Patrick M Seymour",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/a/a4/Horo_Guramu%27s_9th_portrait.png/revision/latest/scale-to-width-down/350?cb=20230403163126"
+    },
+    {
+      "name": "Iruka Dorufino",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Iruka_Dorufino",
+      "class": "1-2",
+      "club": "Sports",
+      "persona": "Heroic",
+      "crush": "?????",
+      "reputation": {
+        "overall": 27,
+        "liked": 30,
+        "respected": 50,
+        "feared": 0
+      },
+      "strength": "Weak",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/3/35/IrukaApril1st.png/revision/latest/scale-to-width-down/350?cb=20230404042043"
+    },
+    {
+      "name": "Itachi Zametora",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Itachi_Zametora",
+      "class": "3-2",
+      "club": "Sports",
+      "persona": "Heroic",
+      "crush": "None",
+      "reputation": {
+        "overall": 33,
+        "liked": -50,
+        "respected": 100,
+        "feared": 50
+      },
+      "strength": "Peak Physical Strength",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/5/56/ItachiApril1st.png/revision/latest/scale-to-width-down/350?cb=20230404041956"
+    },
+    {
+      "name": "Juku Ren",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Juku_Ren",
+      "class": "2-1",
+      "club": "Martial Arts Light Music",
+      "persona": "Heroic",
+      "crush": "None",
+      "reputation": {
+        "overall": 17,
+        "liked": 30,
+        "respected": 10,
+        "feared": 10
+      },
+      "strength": "Very Weak",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/1/1f/JukuSept15th.png/revision/latest/scale-to-width-down/350?cb=20240915082142"
+    },
+    {
+      "name": "Kaga Kusha",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Kaga_Kusha",
+      "class": "3-2",
+      "club": "Science",
+      "persona": "Teacher's Pet",
+      "crush": "Megami Saikou",
+      "reputation": {
+        "overall": 50,
+        "liked": -50,
+        "respected": 100,
+        "feared": 100
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "Patrick Seymour",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/5/53/KagaAugust15th.png/revision/latest/scale-to-width-down/350?cb=20240815073745"
+    },
+    {
+      "name": "Kenko Sukoyaka",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Kenko_Sukoyaka",
+      "class": "3-1",
+      "club": "Cooking",
+      "persona": "Social Butterfly",
+      "crush": "None",
+      "reputation": {
+        "overall": 27,
+        "liked": 30,
+        "respected": 50,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/8/88/KenkoDec1st.png/revision/latest/scale-to-width-down/350?cb=20241201084921"
+    },
+    {
+      "name": "Kyuji Konagawa",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Kyuji_Konagawa",
+      "class": "3-1",
+      "club": "No Club",
+      "persona": "Loner",
+      "crush": "Osana Najimi",
+      "reputation": {
+        "overall": 10,
+        "liked": 30,
+        "respected": 0,
+        "feared": 0
+      },
+      "strength": "Very Weak",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/c/cb/KyujiSept15th.png/revision/latest/scale-to-width-down/350?cb=20230916014603"
+    },
+    {
+      "name": "Mantaro Sashimasu",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Mantaro_Sashimasu",
+      "class": "1-1",
+      "club": "Sports",
+      "persona": "Heroic",
+      "crush": "None",
+      "reputation": {
+        "overall": 27,
+        "liked": 50,
+        "respected": 30,
+        "feared": 0
+      },
+      "strength": "Very Weak",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/5/54/MantaroApril1st.png/revision/latest/scale-to-width-down/350?cb=20230404042058"
+    },
+    {
+      "name": "Otohiko Meichi",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Otohiko_Meichi",
+      "class": "1-1",
+      "club": "No Club",
+      "persona": "Coward",
+      "crush": "None",
+      "reputation": {
+        "overall": -10,
+        "liked": -10,
+        "respected": -10,
+        "feared": -10
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/a/a2/OtohikoNewPortrait.png/revision/latest/scale-to-width-down/350?cb=20230401231318"
+    },
+    {
+      "name": "Riku Soma",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Riku_Soma",
+      "class": "2-1",
+      "club": "Drama",
+      "persona": "Social Butterfly",
+      "crush": "Kokona Haruka",
+      "reputation": {
+        "overall": 17,
+        "liked": 0,
+        "respected": 50,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "Jonah Scott",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/c/cb/RikuJanuary5th2024.png/revision/latest/scale-to-width-down/350?cb=20240105194639"
+    },
+    {
+      "name": "Rojasu Norubiru",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Rojasu_Norubiru",
+      "class": "3-1",
+      "club": "Photography",
+      "persona": "Sleuth",
+      "crush": "None",
+      "reputation": {
+        "overall": 13,
+        "liked": 70,
+        "respected": -30,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/1/1d/ShaggyApril1st.png/revision/latest/scale-to-width-down/350?cb=20230404031857"
+    },
+    {
+      "name": "Ryuto Ippongo",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Ryuto_Ippongo",
+      "class": "3-1",
+      "club": "Gaming",
+      "persona": "Phone Addict",
+      "crush": "Pippi Osu",
+      "reputation": {
+        "overall": -3,
+        "liked": 0,
+        "respected": -10,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "Unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/9/96/RyutoJune15th.png/revision/latest/scale-to-width-down/350?cb=20240615175732"
+    },
+    {
+      "name": "Seiyo Akanishi",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Seiyo_Akanishi",
+      "class": "2-1",
+      "club": "Cooking",
+      "persona": "Social Butterfly",
+      "crush": "None",
+      "reputation": {
+        "overall": 33,
+        "liked": 50,
+        "respected": 50,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/d/d1/SeiyoDec1st.png/revision/latest/scale-to-width-down/350?cb=20241201084937"
+    },
+    {
+      "name": "Shin Higaku",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Shin_Higaku",
+      "class": "3-2",
+      "club": "Occult",
+      "persona": "Teacher's Pet",
+      "crush": "?????",
+      "reputation": {
+        "overall": 13,
+        "liked": -70,
+        "respected": 100,
+        "feared": 10
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/9/9e/ShinPose.png/revision/latest/scale-to-width-down/350?cb=20230402012908"
+    },
+    {
+      "name": "Sho Kunin",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Sho_Kunin",
+      "class": "3-1",
+      "club": "Martial Arts Light Music",
+      "persona": "Heroic",
+      "crush": "None",
+      "reputation": {
+        "overall": 17,
+        "liked": 10,
+        "respected": 30,
+        "feared": 10
+      },
+      "strength": "Strong",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/b/bd/ShoSept15th.png/revision/latest/scale-to-width-down/350?cb=20240915082124"
+    },
+    {
+      "name": "Shoku Tsuburaya",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Shoku_Tsuburaya",
+      "class": "3-2",
+      "club": "Cooking",
+      "persona": "Social Butterfly",
+      "crush": "Amai Odayaka",
+      "reputation": {
+        "overall": 50,
+        "liked": 50,
+        "respected": 100,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/b/b2/ShokuMay17.png/revision/latest/scale-to-width-down/350?cb=20240517132916"
+    },
+    {
+      "name": "Shozo Kurosawa",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Shozo_Kurosawa",
+      "class": "3-1",
+      "club": "Drama",
+      "persona": "Social Butterfly",
+      "crush": "None",
+      "reputation": {
+        "overall": 23,
+        "liked": 0,
+        "respected": 70,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/7/70/ShozoNewPortrait.png/revision/latest/scale-to-width-down/350?cb=20230402012105"
+    },
+    {
+      "name": "Sukubi Dubidu",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Sukubi_Dubidu",
+      "class": "2-1",
+      "club": "Photography",
+      "persona": "Sleuth",
+      "crush": "None",
+      "reputation": {
+        "overall": 13,
+        "liked": 70,
+        "respected": -30,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/8/84/SukubiJune1-2024Build.png/revision/latest/scale-to-width-down/350?cb=20240601085700"
+    },
+    {
+      "name": "Taro Yamada",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Taro_Yamada",
+      "class": "3-2",
+      "club": "None Gardening Club",
+      "persona": "Loner",
+      "crush": "None",
+      "reputation": {
+        "overall": 0,
+        "liked": 0,
+        "respected": 0,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 0",
+      "voice": "Austin Hively",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/1/19/TaroLightingHairStyle.png/revision/latest/scale-to-width-down/350?cb=20241205212716"
+    },
+    {
+      "name": "Toga Tabara",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Toga_Tabara",
+      "class": "3-2",
+      "club": "No Club",
+      "persona": "Loner",
+      "crush": "??????",
+      "reputation": {
+        "overall": 0,
+        "liked": 0,
+        "respected": 0,
+        "feared": 0
+      },
+      "strength": "Very Weak",
+      "appears": "Week 1 and onwards",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/0/05/TogaNewPortrait.png/revision/latest/scale-to-width-down/350?cb=20230401231347"
+    },
+    {
+      "name": "Tsuruzo Yamazaki",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Tsuruzo_Yamazaki",
+      "class": "3-2",
+      "club": "Drama",
+      "persona": "Social Butterfly",
+      "crush": "?????",
+      "reputation": {
+        "overall": 30,
+        "liked": -10,
+        "respected": 100,
+        "feared": 0
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "Ryan Hoyle",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/a/a8/TsuruzoOct21st.png/revision/latest/scale-to-width-down/350?cb=20241021150656"
+    },
+    {
+      "name": "Umeji Kizuguchi",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Umeji_Kizuguchi",
+      "class": "3-1",
+      "club": "Delinquent",
+      "persona": "Violent",
+      "crush": "None",
+      "reputation": {
+        "overall": -67,
+        "liked": -100,
+        "respected": -100,
+        "feared": 100
+      },
+      "strength": "Armed",
+      "appears": "Week 1",
+      "voice": "Unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/7/7f/UmejiJan10th.png/revision/latest/scale-to-width-down/350?cb=20240110200418"
+    },
+    {
+      "name": "Unagi Denkashiza",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Unagi_Denkashiza",
+      "class": "2-1",
+      "club": "Sports",
+      "persona": "Heroic",
+      "crush": "None",
+      "reputation": {
+        "overall": 17,
+        "liked": 0,
+        "respected": 0,
+        "feared": 50
+      },
+      "strength": "Strong",
+      "appears": "Week 1",
+      "voice": "",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/e/ea/UnagiApril1st.png/revision/latest/scale-to-width-down/350?cb=20230404042032"
+    },
+    {
+      "name": "Yaku Zaishi",
+      "gender": "Male",
+      "url": "https://yandere-simulator.fandom.com/wiki/Yaku_Zaishi",
+      "class": "2-1",
+      "club": "Science",
+      "persona": "Teacher's Pet",
+      "crush": "None",
+      "reputation": {
+        "overall": 27,
+        "liked": 0,
+        "respected": 30,
+        "feared": 50
+      },
+      "strength": "Incapable",
+      "appears": "Week 1",
+      "voice": "Nathan Sharp",
+      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/1/12/YakuJanuary5th2024.png/revision/latest/scale-to-width-down/350?cb=20240105194952"
+    }
+  ],
+  "metadata": {
+    "totalCharacters": 95,
+    "genderBreakdown": {
+      "female": 56,
+      "male": 39
+    },
+    "lastUpdated": "2024-12-17 02:19:47"
+  }
+}
