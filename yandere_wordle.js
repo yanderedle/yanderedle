@@ -55,7 +55,7 @@ let characters=[],targetCharacter=null,guessCount=0;const MAX_GUESSES=10;functio
                         <img src="${targetCharacter.imageUrl}" alt="${targetCharacter.name}" class="character-image" style="margin: 1rem 0">
                         <p style="margin: 1.5rem 0">In free play${timeFilter202X?" (202X only)":timeFilter1980s?" (1980s only)":""} mode, it took ${guessCount} ${1===guessCount?"guess":"guesses"} to find <b>${targetCharacter.name}</b>! Thanks for playing Yanderedle!</p>
                         <div class="modal-buttons">
-                            <button onclick="debugNewGame(); this.closest('.modal-overlay').remove()">Play Again</button>
+                            <button onclick="startGame('free'); this.closest('.modal-overlay').remove()">Play Again</button>
                             <button onclick="this.closest('.modal-overlay').remove()">Close</button>
                         </div>
                         <div class="modal-footer">yanderedle.github.io</div>
