@@ -65,9 +65,11 @@ Yanderedle
 <input id=guessInput placeholder="Type a character name...">
 <div id=characterList></div>
 </div>
+<div style=display:flex;align-items:center;gap:1rem>
 <button onclick=makeGuess()>Make Guess</button>
+<span id=mode-indicator style=color:var(--primary);font-weight:700></span>
 </div>
-<p style=text-align:center;padding:10px;color:#666>Created by @emmeff | Made with love | Not affiliated with Yandere Simulator</p>
+</div>
 <div id=guesses></div>
 <script src=yandere_wordle.js></script>
 </div></body>
