@@ -495,7 +495,7 @@
         "feared": 50
       },
       "strength": "Incapable",
-      "appears": "Week 0",
+      "appears": "Week 1",
       "voice": "Hayden Daviau",
       "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/9/91/Kokoronew.png/revision/latest/scale-to-width-down/350?cb=20240502004147",
       "time": "202X"
@@ -978,26 +978,6 @@
       "appears": "Week 1",
       "voice": "None",
       "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/7/75/Supananew.png/revision/latest/scale-to-width-down/350?cb=20240411011547",
-      "time": "202X"
-    },
-    {
-      "name": "Taeko Yamada",
-      "gender": "Female",
-      "url": "https://yandere-simulator.fandom.com/wiki/Taeko_Yamada",
-      "class": "3-2",
-      "club": "No Club",
-      "persona": "Loner",
-      "crush": "None",
-      "reputation": {
-        "overall": 0,
-        "liked": 0,
-        "respected": 0,
-        "feared": 0
-      },
-      "strength": "Incapable",
-      "appears": "Week 0",
-      "voice": "None",
-      "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/f/f1/Senpai-chan.png/revision/latest/scale-to-width-down/174?cb=20211015041053",
       "time": "202X"
     },
     {
@@ -2595,7 +2575,7 @@
         "feared": 50
       },
       "strength": "Incapable",
-      "appears": "Week 0",
+      "appears": "Week 1",
       "voice": "None",
       "imageUrl": "https://static.wikia.nocookie.net/yandere-simulator/images/b/b8/UiOct31st.png/revision/latest/scale-to-width-down/350?cb=20241031081651",
       "time": "1980s"
